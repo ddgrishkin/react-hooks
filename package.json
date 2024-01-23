@@ -1,8 +1,8 @@
 {
-  "name": "@gdd/react-hooks",
+  "name": "@ddgrishkin/react-hooks",
   "version": "0.0.1",
   "description": "Set react-hooks for everyday routine",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "types": "tsc --noEmit"

@@ -1,10 +1,7 @@
 # files
-webpack.config.js
-development.html
 tsconfig.json
+.gitignore
 
 # folders
 /node_modules/
-/typedefs/
-/webpack/
 /src/
