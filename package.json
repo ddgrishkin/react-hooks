@@ -1,6 +1,6 @@
 {
   "name": "@ddgrishkin/react-hooks",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Set react-hooks for everyday routine",
   "main": "dist/index.js",
   "scripts": {

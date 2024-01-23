@@ -10,7 +10,7 @@ export type UsePopupState = {
 	open(): void;
 };
 
-export function usePopupState({initialValue = false}: UsePopupStateProps): UsePopupState {
+export function usePopupState({initialValue = false}: UsePopupStateProps = {}): UsePopupState {
 	const {
 		value: isOpen,
 		setTrue: open,
