@@ -1,14 +1,13 @@
 {
   "compilerOptions": {
+    "target": "es6",
     "outDir": "./dist",
     "baseUrl": "./src",
-    "lib": ["ES2015", "DOM"],
-    "module": "umd",
+    "module": "esnext",
     "declaration": true,
-    "moduleResolution": "node",
     "noImplicitAny": true,
-    "removeComments": true,
-    "preserveConstEnums": true,
-    "sourceMap": false
-  }
+    "moduleResolution": "nodenext",
+  },
+  "include": ["./src/**/*.ts"],
+  "exclude": ["node_modules"]
 }

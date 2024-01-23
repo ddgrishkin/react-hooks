@@ -1,5 +1,5 @@
 import {RefObject, useRef, useEffect, useCallback} from 'react';
-import {useValueRef} from './useValueRef';
+import {useValueRef} from '../useValueRef';
 
 export type UseIntersectionObserverOptions = IntersectionObserverInit;
 

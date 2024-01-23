@@ -1,5 +1,5 @@
 import {RefObject, useEffect} from 'react';
-import {useValueRef} from './useValueRef';
+import {useValueRef} from '../useValueRef';
 
 type Props = {
 	onClickOutside(): void;

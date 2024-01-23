@@ -2,7 +2,8 @@
 Set of react-hooks for everyday routine
 
 ## List of hooks
-- [useValueRef](./src/useValueRef.ts)
-- [useClickOutside](./src/useClickOutside.ts)
-- [useBooleanState](./src/useBooleanState.ts)
-- [useIntersectionObserver](./src/useIntersectionObserver.ts)
+- [useValueRef](./src/useValueRef/readme.md)
+- [usePopupState](./src/usePopupState/readme.md)
+- [useClickOutside](./src/useClickOutside/readme.md)
+- [useBooleanState](./src/useBooleanState/readme.md)
+- [useIntersectionObserver](./src/useIntersectionObserver/readme.md)
